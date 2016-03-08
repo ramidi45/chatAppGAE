@@ -1,0 +1,86 @@
+@import url(http://fonts.googleapis.com/css?family=Advent+Pro:100);
+html { 
+  background:  url(giphy.png) no-repeat center center fixed; 
+  background-size: cover;
+}
+h1{
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 3em;
+  margin: .2em .5em;
+  color: rgb( 255, 153, 0);
+}
+h4{
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 1em;
+  margin: .2em .5em;
+  color: rgb( 255, 222,0);
+}
+body {
+    height: 100%;
+}
+textarea {
+    resize: none;
+    outline: none;  
+	border-radius: 10px;
+	height: 60px;
+	width: 230px;
+	 background-color: transparent;
+    font-size: 1em;
+    margin: .2em .5em;
+    color: rgb( 255, 222,0);
+}
+
+input {
+    resize: none;
+    outline: none;  
+	border-radius: 10px;
+	height: 30px;
+	width: 230px;
+	 background-color: transparent;
+    font-size: 1em;
+    margin: .2em .5em;
+    color: rgb( 255, 222,0);
+}
+
+a:link {
+    color: rgb( 255, 153, 0);
+}
+
+
+/* visited link */
+a:visited {
+  color: rgb( 255, 153, 0);
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+     color: hotpink;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: #555555; 
+    border-radius: 12px; 
+    font-size: 12px;
+     font-family: verdana;
+ 
+}

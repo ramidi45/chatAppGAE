@@ -17,7 +17,7 @@ test login pwd: gaetarun123
 Future scope:
 ===============
 
-1. To make use of html canvas & websockets: for simulating blackboard experience by broadcasting changes from admin user.
+1. To make use of html canvas & channel api: for simulating blackboard experience by broadcasting changes from admin user.
 2. To make use of html5 webrtc: for video sharing where admin video feed is shown to users.
 
 Services used: 

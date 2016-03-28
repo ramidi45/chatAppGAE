@@ -1,7 +1,7 @@
 chatappUsingGAE
 ===============
 
-URL: http://1-dot-webstream-1234.appspot.com/myapp
+URL: http://1-dot-chatappgae.appspot.com/myapp
 
 
 Multi chat application with document sharing (for viewing purpose)
